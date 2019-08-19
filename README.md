@@ -34,7 +34,7 @@
 
 # 演示
 
-演示地址：<http://vue.chinayie.net>
+演示地址：<http://xxx>
 
 ![](http://pic.chinayie.com/cdn/p0.png)
 
