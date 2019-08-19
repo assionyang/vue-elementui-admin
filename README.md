@@ -2,7 +2,7 @@
 
 
 # clone项目
-> git clone https://github.com/assionyang-org/vue-elementui-admin.git
+> git clone https://github.com/assionyang/vue-elementui-admin.git
 
 # 进入项目目录安装
 > npm install //安装依赖  <br/>
